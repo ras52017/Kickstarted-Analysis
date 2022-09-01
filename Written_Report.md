@@ -13,11 +13,11 @@ For the outcomes based on Goals, I had yto use the COUNTIF formula to generate t
 
 ### Analysis of Outcomes Based on Launch Date
 - For the successful outcomes, the observations saw an increase in successful fundraised between january and February, march fundraised dropped but march to may saw a raise in the peaking in june.There was a decline in successful fundraised between May to december with december being the worst performaing month eventhough about the same number of campaings both succeded and failed. The failed campaings also followed a similar trend as the successful campaingns witht eh month of may being the month with the most failure. By comparing those two graphs, one can observe a very wide gab between Successful and failed outcomes for the month of May which shows as compared to the other months.This still shows tha the month of May is the best month to campaing for funds follwoed by June and July.Also the chart shows that in all months fewer campaings got canceled while between september and November, none was cancelled.
-![Theater_Outcomes_vs_Launch]("D:\WASHU DATA Analytics\WUSTL-VIRT-DATA-PT-08-2022-U-B-main\01-Excel\Module 1 Challenge\Resources\Theater_Outcomes_vs_Launch.png")
+![image_Theater_Outcomes_vs_Launch]("D:\WASHU DATA Analytics\WUSTL-VIRT-DATA-PT-08-2022-U-B-main\01-Excel\Module 1 Challenge\Resources\Theater_Outcomes_vs_Launch.png")
  
 ### Analysis of Outcomes Based on Goals
 - Outcomes based on goals showed that for campaings with goles of $4999 were the most successful with over 70% success rate.Campaings with goals in the range of 45000 to $49999 were the least successful. Also Campaings with the goals in the range of $15000 to $19999 have a 50% chance of success.
-![Outcomes_vs_Goals]("D:\WASHU DATA Analytics\WUSTL-VIRT-DATA-PT-08-2022-U-B-main\01-Excel\Module 1 Challenge\Resources\Outcomes_vs_Goals.png")
+![image_Outcomes_vs_Goals]("D:\WASHU DATA Analytics\WUSTL-VIRT-DATA-PT-08-2022-U-B-main\01-Excel\Module 1 Challenge\Resources\Outcomes_vs_Goals.png")
 
 ### Challenges and Difficulties Encountered
 - The challanges I encounted was using the COUNTIF formula for outcome based on goals but watching various you tube videos helped me to overcome that challenge. Knowing what information to put in teh columns and rows within the pivot table was confusing but since that information immeditly shows on the pivot table helped me to know what right looks like.
