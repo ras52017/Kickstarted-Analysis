@@ -17,7 +17,7 @@ For the outcomes based on Goals, I had yto use the COUNTIF formula to generate t
  
 ### Analysis of Outcomes Based on Goals
 - Outcomes based on goals showed that for campaings with goles of $4999 were the most successful with over 70% success rate.Campaings with goals in the range of 45000 to $49999 were the least successful. Also Campaings with the goals in the range of $15000 to $19999 have a 50% chance of success.
-![image_Outcomes_vs_Goals](path/to/Outcomes_vs_Goals.png)
+![image_Outcomes_vs_Goals](Outcomes_vs_Goals.png)
 
 
 ### Challenges and Difficulties Encountered
